@@ -1,1 +1,1 @@
-# WavelabsPracties
+# WavelabsPractices
